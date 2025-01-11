@@ -1,0 +1,11 @@
+.mqf-logo{
+    height: 20vh;
+    width: auto;
+}
+
+body {
+    background-image: url('images/newbg1.png');
+    background-size: cover;  /* Ensures it covers the entire screen */
+    background-position: center;
+    background-repeat: no-repeat;  /* Avoids repeating the image */
+}

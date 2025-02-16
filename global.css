@@ -3,6 +3,11 @@
     width: auto;
 }
 
+.mqf-logo-mobile{
+    height: 10vh;
+    width: auto;
+}
+
 body {
     background-image: url('images/newbg1.png');
     background-size: cover;  /* Ensures it covers the entire screen */
